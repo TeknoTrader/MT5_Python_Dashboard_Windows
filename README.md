@@ -1,4 +1,4 @@
-# 💹 MT5 Trading Dashboard Pro
+# 💹 MT5 Python Dashboard
 
 A **Python-based GUI dashboard** for MetaTrader 5, demonstrating how to use the MT5 Python API for algorithmic trading and automated strategy development.
 
