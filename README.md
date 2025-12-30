@@ -228,4 +228,4 @@ MIT License - Free to use, modify, and distribute with attribution.
 
 **VAT Code**: 02674000464  
 **Company**: Tekno Trader  
-**© 2024 Nicola Chimenti. All rights reserved.**
+**© 2025 Nicola Chimenti. All rights reserved.**
